@@ -5,8 +5,14 @@ Working Algorithms:
 -------------------
 1. Permutations & Combinations of strings
 
+InterviewStreet:
+-------------------
+1. MultiplyExceptSelf
+2. FrequencyCounting
+
 Test Cases not working
-----------------------
+======================
+
+InterviewStreet:
+----------------
 1. Top Four
-2. MultiplyExceptSelf (Get one floating point exception & one wrong answer)
-3. FrequencyCounting
