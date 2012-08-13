@@ -9,3 +9,4 @@ Test Cases not working
 ----------------------
 1. Top Four
 2. MultiplyExceptSelf (Get one floating point exception & one wrong answer)
+3. FrequencyCounting
